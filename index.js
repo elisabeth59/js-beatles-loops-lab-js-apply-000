@@ -13,4 +13,5 @@ while (i<facts.length) {
   loudFacts.push(`${facts[i]}!!!`);
   i++
 }
+return loudFacts
 }
