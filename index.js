@@ -15,3 +15,5 @@ while (i<facts.length) {
 }
 return loudFacts
 }
+
+function iLoveTheBeatles(7)
