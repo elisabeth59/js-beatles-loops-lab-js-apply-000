@@ -16,4 +16,4 @@ while (i<facts.length) {
 return loudFacts
 }
 
-function iLoveTheBeatles(7)
+function iLoveTheBeatles(n)
