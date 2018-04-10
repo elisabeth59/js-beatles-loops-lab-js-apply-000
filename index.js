@@ -9,5 +9,5 @@ return arr;
 function johnLennonFacts(facts) {
   var loudFacts = [];
 let i=0
-while ()
+while (i<loudFacts.length)
 }
