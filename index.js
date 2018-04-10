@@ -8,5 +8,5 @@ return arr;
 
 function johnLennonFacts(facts) {
   var newFacts = [];
-while 
+while (i=0; )
 }
