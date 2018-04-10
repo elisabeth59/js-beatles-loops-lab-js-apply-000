@@ -8,5 +8,6 @@ return arr;
 
 function johnLennonFacts(facts) {
   var loudFacts = [];
-i=0
+let i=0
+while ()
 }
