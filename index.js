@@ -7,6 +7,6 @@ return arr;
 }
 
 function johnLennonFacts(facts) {
-  var newFacts = [];
-while (i)
+  var loudFacts = [];
+i=0
 }
