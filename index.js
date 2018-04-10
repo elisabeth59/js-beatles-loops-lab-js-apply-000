@@ -17,10 +17,10 @@ return loudFacts
 }
 
 function iLoveTheBeatles(n) {
-  var arr = []
+  var arr = [];
   do {
-    arr.push('I love the Beatles!')
-    n++
-  } while (n<15)
-  }
+    arr.push('I love the Beatles!');
+    n++;
+  } while (n<15);
+return arr;
 }
